@@ -1,2 +1,4 @@
 # Javascript-PW-Gen
-Password Generator in browser
+Password Generator in Web Browser using Javascript
+
+
